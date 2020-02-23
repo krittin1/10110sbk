@@ -7,7 +7,7 @@ class Home extends Component {
             <div>
                 <br></br>
                 <h1>
-                    This is Home Page
+                    Hello This is Home Page
                 </h1>
 
             </div>
