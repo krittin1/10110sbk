@@ -13,7 +13,9 @@ class App extends Component{
       <Header/>
       <div className="ui container">
           <Switch>
-            <Route exact path="/" component={Home} />
+
+            
+            <Route exact path="/10110sbk" component={Home} />
             <Route path="/create" component={Create} />
           </Switch>
           </div>

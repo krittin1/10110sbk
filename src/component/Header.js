@@ -21,7 +21,7 @@ class Header extends Component {
 
             <div>
                 <Menu inverted>
-                    <Link to="/">
+                    <Link to="/10110sbk">
                     <Menu.Item
                     name='home'
                     active={activeItem === 'home'}

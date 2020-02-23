@@ -56,7 +56,7 @@ class Create extends Component {
         e.preventDefault();
         alert(this.state.firstName + " "  + this.state.lastName + " " + this.state.email
         + " " + this.state.phone +  " " + this.state.id + this.state.nickName );
-        this.props.history.push("/");
+        this.props.history.push("/10110sbk");
             
     }
 
